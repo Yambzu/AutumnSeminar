@@ -5,3 +5,5 @@ Changes from local repository
 Changes from remote repository
 
 Changes from Yambzu
+
+New changes
